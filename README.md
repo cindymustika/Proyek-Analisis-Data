@@ -26,6 +26,7 @@ pip install -r requirements.txt
 cd Proyek-Analisis-Data
 streamlit run dashboard.py
 ```
+Dapat juga mengunjungi https://bikesharinganalysis-cindy.streamlit.app/
 
 
 
